@@ -7,7 +7,7 @@ public class GamePreference {
     private static Cell[][] gameFields = new Cell[8][4];
 
 
-   public moveToMap(Organizm organizm) {
+   public void moveToMap(Organizm organizm) {
 
    }
     public GamePreference() {
